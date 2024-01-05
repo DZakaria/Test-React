@@ -1,0 +1,46 @@
+body{
+  font: normal 14px/100% "Helvetica Neue";
+  color: aliceblue;
+  padding: 50px;
+  width: 300px;
+  margin:0 auto;
+  background-color: #fff;
+  text-align: center;
+}
+
+h1{
+  font-size:100px;
+  color:black;
+}
+
+.conatainer{
+  margin: 60% auto;
+}
+
+button{
+  display: inline-block;
+  border: 21px;
+  width: 60px;
+  margin: 10px;
+  text-align: center;
+  color:aliceblue;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.btnIncrement{
+  background-color:blue;
+}
+
+ .btnDecrement{
+  background-color: red;
+
+}
+
+.blue-text {
+  color: blue;
+}
+
+.red-text {
+  color: red;
+}
